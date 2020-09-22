@@ -31,6 +31,17 @@
       margin-top: 80px;
       text-align: center;
     }
+    ul.publications {
+      list-style-type: none;
+      text-align: left;
+      display: inline-block;
+    }
+    ul.publications li {
+      margin-bottom: 10px;
+    }
+    ul.publications li:before {
+      content: "— ";
+    }
   </style>
 </head>
 <body>
@@ -41,12 +52,12 @@
   </div>
 
   <div class="main">
-    <div style="margin-bottom: 20px;"><a href="/covid-19/">Our COVID-19 publications</a></div>
-    <div style="display: inline-block"><a href="http://www.nupulmonary.org/resources/">Resources</a></div>
-    <div style="display: inline-block; margin-left: 20px; text-align: left;">
-      — interactive scRNA-seq figures from <a href="https://www.atsjournals.org/doi/abs/10.1164/rccm.201712-2410OC">Reyfman et al., AJRCCM, 2018</a> (open access)<br/>
-      — interactive scRNA-seq figures from <a href="https://erj.ersjournals.com/content/early/2019/09/25/13993003.00646-2019">Joshi, Watanabe et al., ERJ, 2019</a>
-    </div>
+    <ul class="publications">
+      <li><a href="/covid-19/">Our COVID-19 publications</a></li>
+      <li><a href="/mcquattie-pimentel-ren-et-al-2020/">Interactive figures</a> from <a href="https://www.biorxiv.org/content/10.1101/717033v2">McQuattie-Pimentel, Ren et al., 2020</a></li>
+      <li><a href="/resources/">Interactive scRNA-seq figures</a> from <a href="https://erj.ersjournals.com/content/early/2019/09/25/13993003.00646-2019">Joshi, Watanabe et al., ERJ, 2019</a></li>
+      <li><a href="/resources/">Interactive scRNA-seq figures</a> from <a href="https://www.atsjournals.org/doi/abs/10.1164/rccm.201712-2410OC">Reyfman et al., AJRCCM, 2018</a> (open access)</li>
+    </ul>
   </div>
 
   <div class="footer">

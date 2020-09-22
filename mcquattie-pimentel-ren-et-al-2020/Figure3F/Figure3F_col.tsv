@@ -1,0 +1,17 @@
+id	Group
+AT01_AT2Y_F0_D0_R1	Young_Naive
+AT02_AT2Y_F0_D0_R2	Young_Naive
+AT03_AT2Y_F0_D0_R3	Young_Naive
+AT04_AT2Y_F0_D0_R4	Young_Naive
+AT05_AT2RY_F0_D0_R1	Old_AM_Young_Mouse
+AT06_AT2RY_F0_D0_R2	Old_AM_Young_Mouse
+AT07_AT2RY_F0_D0_R3	Old_AM_Young_Mouse
+AT08_AT2RY_F0_D0_R4	Old_AM_Young_Mouse
+AT13_AT2RO_F0_D0_R1	Young_AM_Old_Mouse
+AT14_AT2RO_F0_D0_R2	Young_AM_Old_Mouse
+AT15_AT2RO_F0_D0_R3	Young_AM_Old_Mouse
+AT16_AT2RO_F0_D0_R4	Young_AM_Old_Mouse
+AT09_AT2O_F0_D0_R1	Old_Naive
+AT10_AT2O_F0_D0_R2	Old_Naive
+AT11_AT2O_F0_D0_R3	Old_Naive
+AT12_AT2O_F0_D0_R4	Old_Naive

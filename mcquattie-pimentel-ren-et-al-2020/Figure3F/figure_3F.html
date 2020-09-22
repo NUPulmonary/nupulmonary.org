@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf8"/>
+    <title>Double hit paper</title>
+    <style type="text/css">
+        html {
+          margin: 0; padding: 0;
+          font-size: 20px; font-family: Helvetica, Verdana, sans-serif;
+        }
+        body {margin: 0; padding: 20px 100px;}
+        a {color: #1385cb}
+        a:visited {color: #0e74bc}
+        .header {margin-bottom: 10px;}
+        .header h2, .header h3 {font-weight: normal; text-align: center; margin: 0 0 6px 0;}
+      </style>
+    <link rel="stylesheet" href="https://software.broadinstitute.org/morpheus/css/morpheus-latest.min.css">
+    <script>if (typeof module === 'object') {
+    window.module = module;
+    module = undefined;
+
+    }</script>
+
+    <script type="text/javascript" src="https://software.broadinstitute.org/morpheus/js/morpheus-external-latest.min.js"></script>
+    <script src="https://software.broadinstitute.org/morpheus/js/morpheus-latest.min.js"></script>
+</head>
+<body>
+    <div class="header">
+        <h2>Figure 3F. k-means clustering of AT2 in adoptive transfer experiment</h2>
+    </div>
+    <div id="morpheus-container" style="width: 1200px; height: 800px;"></div>
+
+    <script type="text/javascript">
+        new morpheus.HeatMap({
+            el: document.querySelector('#morpheus-container'),
+            name: "Figure3F.",
+            dataset: "Figure3F.tsv",
+            rows: [
+                {field: "gene_name", display: ["text"]},
+                {field: "cluster", display: ["text", "color"], formatter: "d"}
+            ],
+            columns: [
+                {field: "id", display: ["text"]},
+                {field: "Group", display: ["color"]}
+            ],
+            columnColorModel: {
+                "Group": {
+                    "Young_naive": "#4DBBD5",
+                    "AT2_in_Old_AM_Young_Mouse": "#E64B35",
+                    "AT2_in_Young_AM_Old_Mouse": "#00A087",
+                    "Old_naive": "#2b9f2b"
+                },
+            },
+            rowColorModel: {
+                "cluster": {
+                    "values": [1, 2, 3],
+                    "colors": ["#1e76b3", "#ff7e0d", "#2b9f2b"]
+                }
+            },
+            columnAnnotations: [{
+                file: "Figure3F_col.tsv",
+                datasetField: "id",
+                fileField: "id"
+            }],
+            rowAnnotations: [{
+                file: "Figure3F_row.tsv",
+                datasetField: "id",
+                fileField: "gene"
+            }],
+            colorScheme: { // optional color scheme. default is relative
+                type: 'fixed',
+                map: [{
+                    value: -2,
+                    color: '#0000ff'
+                }, {
+                    value: 0,
+                    color: '#ffffff'
+                }, {
+                    value: 2,
+                    color: '#ff0000'
+                }]
+            }
+        });
+    </script>
+</body>
+</html>
