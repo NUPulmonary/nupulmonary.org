@@ -1,0 +1,233 @@
+id	Diagnosis	Day of intubation	Superinfection
+340239870	Non-Pneumonia Control	4	Primary Only
+340228398	Other Pneumonia	18	NA
+340233865	Non-Pneumonia Control	0	Superinfection
+340236077	Other Viral Pneumonia	2	Primary Only
+340233860	Other Viral Pneumonia	17	Superinfection
+340235121	Other Pneumonia	NA	NA
+340195058	Non-Pneumonia Control	14	Primary Only
+340235161	Other Pneumonia	8	NA
+340233904	Other Viral Pneumonia	0	Primary Only
+340236128	COVID-19	0	Primary Only
+340237150	Other Pneumonia	9	NA
+340224819	Other Pneumonia	NA	NA
+340224825	Non-Pneumonia Control	2	Primary Only
+340238496	Other Viral Pneumonia	10	Primary Only
+340238513	Other Pneumonia	29	NA
+340224816	Other Pneumonia	25	NA
+340239830	Non-Pneumonia Control	6	Primary Only
+340235091	Other Pneumonia	5	NA
+340238439	Other Pneumonia	2	NA
+304019063	Non-Pneumonia Control	5	Primary Only
+304020363	Non-Pneumonia Control	NA	NA
+304011110	Other Viral Pneumonia	2	Primary Only
+304017047	Other Pneumonia	10	NA
+340239607	COVID-19	0	Primary Only
+340236054	Other Pneumonia	7	NA
+340224808	Other Viral Pneumonia	NA	Primary Only
+340236042	COVID-19	1	Primary Only
+340236102	Non-Pneumonia Control	1	Primary Only
+340235169	Non-Pneumonia Control	0	Primary Only
+340239829	Other Pneumonia	0	NA
+340235126	Other Viral Pneumonia	0	Primary Only
+340239863	Other Pneumonia	26	NA
+340239840	Other Pneumonia	24	NA
+340239847	Other Pneumonia	10	NA
+340239784	Other Pneumonia	NA	NA
+368522743	COVID-19	51	Superinfection
+340207328	COVID-19	8	Superinfection
+340239843	COVID-19	15	NA
+340235105	Other Viral Pneumonia	0	Primary Only
+340239848	COVID-19	1	Primary Only
+340235175	Other Viral Pneumonia	7	Primary Only
+300312414	Other Pneumonia	1	NA
+340233857	Non-Pneumonia Control	1	Primary Only
+340235090	Other Viral Pneumonia	3	Primary Only
+340235149	Other Pneumonia	2	NA
+304020349	Other Viral Pneumonia	18	Primary Only
+340239802	Other Pneumonia	3	NA
+304011103	Other Pneumonia	4	NA
+340224809	Non-Pneumonia Control	2	Primary Only
+340211907	Other Pneumonia	NA	NA
+340238927	Other Viral Pneumonia	2	Primary Only
+300311483	Non-Pneumonia Control	0	Primary Only
+340233920	Non-Pneumonia Control	NA	NA
+304011152	Other Pneumonia	8	NA
+304017079	Other Pneumonia	2	NA
+340239828	Healthy Control	NA	NA
+340236050	Healthy Control	NA	NA
+368522783	Other Pneumonia	1	NA
+340236729	Healthy Control	NA	NA
+340201217	Healthy Control	NA	NA
+340236058	Healthy Control	NA	NA
+300311424	Non-Pneumonia Control	0	Primary Only
+340233872	Non-Pneumonia Control	2	Primary Only
+340236097	Non-Pneumonia Control	4	Primary Only
+300312388	Non-Pneumonia Control	1	Primary Only
+304019079	Other Pneumonia	2	NA
+304011126	Other Pneumonia	12	NA
+304019119	Other Pneumonia	0	NA
+304017502	Other Pneumonia	5	NA
+300312389	Other Pneumonia	5	NA
+304020332	Other Pneumonia	9	NA
+340235159	Other Viral Pneumonia	1	Primary Only
+340236136	Other Pneumonia	1	NA
+340239797	Other Pneumonia	13	NA
+368524253	COVID-19	42	Primary Only
+368522763	COVID-19	10	Superinfection
+340236060	COVID-19	34	Superinfection
+368523515	COVID-19	33	Primary Only
+368522805	COVID-19	20	Primary Only
+368524275	COVID-19	7	Superinfection
+368523734	COVID-19	15	Primary Only
+368525513	COVID-19	51	Primary Only
+368524239	COVID-19	28	Primary Only
+340234645	COVID-19	11	Primary Only
+340239856	Other Viral Pneumonia	28	Primary Only
+340236056	COVID-19	29	Superinfection
+340239788	COVID-19	43	Superinfection
+340239844	COVID-19	40	Superinfection
+340233864	COVID-19	33	Superinfection
+340195046	COVID-19	10	Superinfection
+340233849	COVID-19	44	Primary Only
+340239841	COVID-19	0	Primary Only
+340206672	Other Pneumonia	1	NA
+340236066	Other Pneumonia	30	NA
+340235136	Other Pneumonia	0	NA
+340233881	COVID-19	NA	NA
+340239864	Other Pneumonia	90	NA
+340233896	COVID-19	15	Primary Only
+340236135	COVID-19	1	Primary Only
+368522765	COVID-19	9	Primary Only
+340233906	COVID-19	5	Primary Only
+340199383	COVID-19	6	Primary Only
+340239790	COVID-19	24	Primary Only
+340239792	Other Viral Pneumonia	22	Primary Only
+340239858	COVID-19	0	Primary Only
+340239866	Other Pneumonia	15	NA
+340239804	COVID-19	11	Superinfection
+340239822	COVID-19	17	Primary Only
+340233844	COVID-19	4	Superinfection
+340206734	Other Pneumonia	0	NA
+340233851	Other Viral Pneumonia	2	Primary Only
+368524206	COVID-19	1	Primary Only
+368522785	Other Pneumonia	1	NA
+368522793	COVID-19	6	Primary Only
+340233867	COVID-19	8	Superinfection
+340197122	COVID-19	4	Superinfection
+368523523	COVID-19	3	Primary Only
+340233856	COVID-19	12	Primary Only
+340197074	COVID-19	7	Primary Only
+340239789	COVID-19	17	Primary Only
+340233886	COVID-19	18	Superinfection
+340233852	Other Pneumonia	16	NA
+340235110	Other Pneumonia	4	NA
+340206728	COVID-19	7	Primary Only
+340237794	COVID-19	22	Primary Only
+340236091	COVID-19	27	Superinfection
+340239839	COVID-19	33	Superinfection
+340236051	COVID-19	15	Superinfection
+340239852	COVID-19	31	Primary Only
+340235125	Other Viral Pneumonia	0	Primary Only
+304011161	Other Pneumonia	2	NA
+340236134	Other Viral Pneumonia	5	Superinfection
+340233858	Other Pneumonia	26	NA
+340236067	Other Pneumonia	4	NA
+300311832	Other Pneumonia	2	NA
+300311854	Other Pneumonia	0	NA
+304011159	Other Pneumonia	2	NA
+304017020	Other Pneumonia	3	NA
+304017531	Other Pneumonia	NA	NA
+304017064	Other Viral Pneumonia	3	Primary Only
+340235141	Non-Pneumonia Control	1	Primary Only
+340239805	COVID-19	12	Primary Only
+340235158	Other Pneumonia	3	NA
+340239853	Other Pneumonia	1	NA
+340235120_R	Other Pneumonia	2	NA
+340235128	Other Pneumonia	6	NA
+300291725	Non-Pneumonia Control	2	Primary Only
+340235140	Other Pneumonia	0	NA
+340235166	Other Pneumonia	0	NA
+340233888	Other Pneumonia	2	NA
+340239808	Non-Pneumonia Control	1	Primary Only
+300312398	Other Pneumonia	1	NA
+304011150	Other Pneumonia	16	NA
+304017043	Other Pneumonia	23	NA
+304017521	Other Pneumonia	3	NA
+300311456	Other Pneumonia	0	NA
+304020322	Other Pneumonia	7	NA
+300311813	Other Pneumonia	1	NA
+300306794	Non-Pneumonia Control	13	Primary Only
+304019103	Other Pneumonia	4	NA
+300311466	Other Pneumonia	1	NA
+340239821	Other Viral Pneumonia	7	Primary Only
+340238691	Other Pneumonia	5	NA
+340238739	Non-Pneumonia Control	NA	NA
+304012699	Other Pneumonia	0	NA
+304020306	Other Pneumonia	9	NA
+340239806	Other Pneumonia	2	NA
+304020328	Other Pneumonia	0	NA
+300312413	Non-Pneumonia Control	7	Primary Only
+304020314	Non-Pneumonia Control	15	Primary Only
+300311440	Other Pneumonia	2	NA
+340238687	Other Pneumonia	16	NA
+300312395	Other Pneumonia	11	NA
+304020340	Other Viral Pneumonia	2	Superinfection
+340235150	Other Pneumonia	23	NA
+304017012	Other Pneumonia	5	NA
+300311432	Other Pneumonia	19	NA
+340238716	Other Pneumonia	2	NA
+304019111	Other Pneumonia	9	NA
+304020345	Other Viral Pneumonia	1	Primary Only
+304020336	Other Pneumonia	4	NA
+304017553	Other Pneumonia	2	NA
+304020370	Other Pneumonia	16	NA
+368500691	COVID-19	1	Primary Only
+340239818	COVID-19	2	NA
+340233911	Other Pneumonia	0	NA
+340233853	Other Viral Pneumonia	0	Primary Only
+340236118	Other Viral Pneumonia	6	Primary Only
+340207360	COVID-19	0	Superinfection
+340236075	COVID-19	1	Primary Only
+340239838	COVID-19	0	Primary Only
+340195048	COVID-19	5	Primary Only
+368522776	COVID-19	2	Primary Only
+340201240	COVID-19	0	Primary Only
+340199430	COVID-19	0	Primary Only
+340239823	COVID-19	3	Primary Only
+368500690	COVID-19	0	Superinfection
+340236090	COVID-19	11	Superinfection
+340235376	COVID-19	2	Primary Only
+340236083	COVID-19	7	NA
+340239782	Other Viral Pneumonia	2	Primary Only
+340236096	COVID-19	1	Primary Only
+368522804	COVID-19	2	Superinfection
+340233850	COVID-19	1	Primary Only
+340236044	COVID-19	1	Primary Only
+368525517	COVID-19	0	Primary Only
+304020298	Other Pneumonia	6	NA
+340239867	COVID-19	31	Superinfection
+304017039	Other Pneumonia	8	NA
+300312447	Other Viral Pneumonia	63	Superinfection
+304020362	Other Viral Pneumonia	5	Primary Only
+340233861	Other Pneumonia	NA	NA
+368524210	COVID-19	41	Superinfection
+340228397	Other Pneumonia	1	NA
+300312406	Other Pneumonia	12	NA
+340239842	Other Pneumonia	7	NA
+300311436	Other Pneumonia	9	NA
+340233868	Other Pneumonia	2	NA
+300306779	Other Pneumonia	1	NA
+304011160	Other Viral Pneumonia	8	Primary Only
+304012703	Other Pneumonia	11	NA
+340235168	Other Pneumonia	5	NA
+340236045	Other Pneumonia	30	NA
+340235173	Other Pneumonia	7	NA
+368522831	Other Pneumonia	NA	NA
+340236089	Other Pneumonia	1	NA
+300312401	Other Pneumonia	3	NA
+304020361	Other Pneumonia	1	NA
+340206655	Other Pneumonia	41	NA
+340228401	Other Pneumonia	2	NA
+304017499	Other Pneumonia	1	NA
+340235148	Other Pneumonia	0	NA

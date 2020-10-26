@@ -27,7 +27,7 @@
 </head>
 <body>
     <div class="header">
-        <h2>Figure 4c. k-means clustering of the 2,179 most variable genes across diagnoses</h2>
+        <h2>Figure 4c. k-means clustering of the 2,361 most variable genes across diagnoses</h2>
     </div>
     <div id="morpheus-container" style="width: 1200px; height: 800px;"></div>
 
@@ -35,7 +35,7 @@
         new morpheus.HeatMap({
             el: document.querySelector('#morpheus-container'),
             name: "Figure 4c.",
-            dataset: "03figure4c-expr.tsv",
+            dataset: "03figure4a-expr.tsv",
             rows: [
                 {field: "gene_name", display: ["text"]},
                 {field: "cluster", display: ["text", "color"], formatter: "d"}
@@ -71,12 +71,12 @@
                 }
             },
             columnAnnotations: [{
-                file: "03figure4c-col-meta.tsv",
+                file: "03figure4a-col-meta.tsv",
                 datasetField: "id",
                 fileField: "id"
             }],
             rowAnnotations: [{
-                file: "03figure4c-row-meta.tsv",
+                file: "03figure4a-row-meta.tsv",
                 datasetField: "id",
                 fileField: "gene"
             }],
